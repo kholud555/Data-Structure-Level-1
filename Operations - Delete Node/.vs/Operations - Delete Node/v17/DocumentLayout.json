@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Programming advice\\12 Data Structure\\Operations - Delete Node\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{134A3709-2F9E-4B9E-9231-664EBD61818C}|Operations - Delete Node.vcxproj|D:\\Documents\\Programming advice\\12 Data Structure\\Operations - Delete Node\\Operations - Delete Node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{134A3709-2F9E-4B9E-9231-664EBD61818C}|Operations - Delete Node.vcxproj|solutionrelative:Operations - Delete Node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Operations - Delete Node.cpp",
+              "DocumentMoniker": "D:\\Documents\\Programming advice\\12 Data Structure\\Operations - Delete Node\\Operations - Delete Node.cpp",
+              "RelativeDocumentMoniker": "Operations - Delete Node.cpp",
+              "ToolTip": "D:\\Documents\\Programming advice\\12 Data Structure\\Operations - Delete Node\\Operations - Delete Node.cpp",
+              "RelativeToolTip": "Operations - Delete Node.cpp",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAcwJgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T23:09:25.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

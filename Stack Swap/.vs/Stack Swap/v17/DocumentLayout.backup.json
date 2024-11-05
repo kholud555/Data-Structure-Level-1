@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\c\u002B\u002B\\12 Data Structure\\Stack Swap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39B8A7C5-8F0B-4DF9-8D69-1E8D9AA72F5E}|Stack Swap.vcxproj|D:\\Documents\\c\u002B\u002B\\12 Data Structure\\Stack Swap\\Stack Swap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39B8A7C5-8F0B-4DF9-8D69-1E8D9AA72F5E}|Stack Swap.vcxproj|solutionrelative:Stack Swap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stack Swap.cpp",
+              "DocumentMoniker": "D:\\Documents\\c\u002B\u002B\\12 Data Structure\\Stack Swap\\Stack Swap.cpp",
+              "RelativeDocumentMoniker": "Stack Swap.cpp",
+              "ToolTip": "D:\\Documents\\c\u002B\u002B\\12 Data Structure\\Stack Swap\\Stack Swap.cpp*",
+              "RelativeToolTip": "Stack Swap.cpp*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T09:52:02.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
