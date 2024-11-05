@@ -1,5 +1,4 @@
-//ProgrammingAdvices.com
-//Mohammed Abu-Hadhoud
+
 
 #include <iostream>
 using namespace std;
