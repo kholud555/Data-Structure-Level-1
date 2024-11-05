@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Programming advice\\12 Data Structure\\Doubly Linked List Operations - Find Node\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{976CC161-C288-4C79-A3AF-8602142ADA45}|Doubly Linked List Operations - Find Node.vcxproj|D:\\Documents\\Programming advice\\12 Data Structure\\Doubly Linked List Operations - Find Node\\Doubly Linked List Operations - Find Node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{976CC161-C288-4C79-A3AF-8602142ADA45}|Doubly Linked List Operations - Find Node.vcxproj|solutionrelative:Doubly Linked List Operations - Find Node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Doubly Linked List Operations - Find Node.cpp",
+              "DocumentMoniker": "D:\\Documents\\Programming advice\\12 Data Structure\\Doubly Linked List Operations - Find Node\\Doubly Linked List Operations - Find Node.cpp",
+              "RelativeDocumentMoniker": "Doubly Linked List Operations - Find Node.cpp",
+              "ToolTip": "D:\\Documents\\Programming advice\\12 Data Structure\\Doubly Linked List Operations - Find Node\\Doubly Linked List Operations - Find Node.cpp",
+              "RelativeToolTip": "Doubly Linked List Operations - Find Node.cpp",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAcwIMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T23:33:10.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Doubly Linked List Operations -Insert At Beginning.cpp",
               "DocumentMoniker": "D:\\Documents\\Programming advice\\12 Data Structure\\Doubly Linked List Operations -Insert At Beginning\\Doubly Linked List Operations -Insert At Beginning.cpp",
               "RelativeDocumentMoniker": "Doubly Linked List Operations -Insert At Beginning.cpp",
-              "ToolTip": "D:\\Documents\\Programming advice\\12 Data Structure\\Doubly Linked List Operations -Insert At Beginning\\Doubly Linked List Operations -Insert At Beginning.cpp*",
-              "RelativeToolTip": "Doubly Linked List Operations -Insert At Beginning.cpp*",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAAB4AAAAhAAAAAAAAAA==",
+              "ToolTip": "D:\\Documents\\Programming advice\\12 Data Structure\\Doubly Linked List Operations -Insert At Beginning\\Doubly Linked List Operations -Insert At Beginning.cpp",
+              "RelativeToolTip": "Doubly Linked List Operations -Insert At Beginning.cpp",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-05T21:58:06.228Z",
               "EditorCaption": ""
