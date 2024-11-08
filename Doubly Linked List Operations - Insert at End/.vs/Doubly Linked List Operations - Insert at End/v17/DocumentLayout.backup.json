@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Programming advice\\12 Data Structure\\Doubly Linked List Operations - Insert at End\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCABC57-BD67-44F8-8B70-FB15B1B84259}|Doubly Linked List Operations - Insert at End.vcxproj|D:\\Documents\\Programming advice\\12 Data Structure\\Doubly Linked List Operations - Insert at End\\Doubly Linked List Operations - Insert at End.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CCABC57-BD67-44F8-8B70-FB15B1B84259}|Doubly Linked List Operations - Insert at End.vcxproj|solutionrelative:Doubly Linked List Operations - Insert at End.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Doubly Linked List Operations - Insert at End.cpp",
+              "DocumentMoniker": "D:\\Documents\\Programming advice\\12 Data Structure\\Doubly Linked List Operations - Insert at End\\Doubly Linked List Operations - Insert at End.cpp",
+              "RelativeDocumentMoniker": "Doubly Linked List Operations - Insert at End.cpp",
+              "ToolTip": "D:\\Documents\\Programming advice\\12 Data Structure\\Doubly Linked List Operations - Insert at End\\Doubly Linked List Operations - Insert at End.cpp",
+              "RelativeToolTip": "Doubly Linked List Operations - Insert at End.cpp",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAG4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T10:46:15.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

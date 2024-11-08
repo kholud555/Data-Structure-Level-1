@@ -126,6 +126,11 @@ int main()
     else
         cout << "\n\n Node Is not found :-(\n";
 
+    PrintList(head);
+
+    PrintList(head);
+
+    PrintList(head);
 
     system("pause>0");
 

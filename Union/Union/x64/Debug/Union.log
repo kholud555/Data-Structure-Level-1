@@ -1,0 +1,3 @@
+﻿  Union.cpp
+D:\Documents\Programming advice\12 Data Structure\Union\Union.cpp(23,26): warning C4305: '=': truncation from 'double' to 'float'
+  Union.vcxproj -> D:\Documents\Programming advice\12 Data Structure\Union\x64\Debug\Union.exe

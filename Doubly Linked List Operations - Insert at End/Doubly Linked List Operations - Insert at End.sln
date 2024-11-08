@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Doubly Linked List Operations - Insert at End", "Doubly Linked List Operations - Insert at End.vcxproj", "{0CCABC57-BD67-44F8-8B70-FB15B1B84259}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CCABC57-BD67-44F8-8B70-FB15B1B84259}.Debug|x64.ActiveCfg = Debug|x64
+		{0CCABC57-BD67-44F8-8B70-FB15B1B84259}.Debug|x64.Build.0 = Debug|x64
+		{0CCABC57-BD67-44F8-8B70-FB15B1B84259}.Debug|x86.ActiveCfg = Debug|Win32
+		{0CCABC57-BD67-44F8-8B70-FB15B1B84259}.Debug|x86.Build.0 = Debug|Win32
+		{0CCABC57-BD67-44F8-8B70-FB15B1B84259}.Release|x64.ActiveCfg = Release|x64
+		{0CCABC57-BD67-44F8-8B70-FB15B1B84259}.Release|x64.Build.0 = Release|x64
+		{0CCABC57-BD67-44F8-8B70-FB15B1B84259}.Release|x86.ActiveCfg = Release|Win32
+		{0CCABC57-BD67-44F8-8B70-FB15B1B84259}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EA59FDD-1D5D-419C-BFDA-739602CB2B9A}
+	EndGlobalSection
+EndGlobal
